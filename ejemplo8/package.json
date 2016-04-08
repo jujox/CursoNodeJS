@@ -1,0 +1,15 @@
+{
+  "name": "ejemplo8",
+  "version": "1.0.0",
+  "description": "Ejemplo 8. Hola,mundo con Express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Juanjo Escribano",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}

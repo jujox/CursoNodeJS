@@ -1,0 +1,16 @@
+{
+  "name": "ejemplo9",
+  "version": "1.0.0",
+  "description": "Ejemplo 9. Segundo ejemplo con Express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Juanjo Escribano",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "morgan": "^1.7.0"
+  }
+}
